@@ -1,0 +1,301 @@
+Product_ID,Category,Product_Name,Brand,Price_INR,Rating,Reviews,Units_Sold,Discount_Percent,Demand,In_Stock
+1001,Electronics,Wireless Headphones,Boat,1594,4.4,200,110,5,Medium,Yes
+1002,Fashion,Running Shoes,Nike,3716,4.7,187,143,25,High,Yes
+1003,Grocery,Almonds 500g,Nutraj,668,4.8,378,107,0,Medium,Yes
+1004,Electronics,Smart Watch,Noise,2369,4.4,160,101,20,Medium,Yes
+1005,Grocery,Green Tea,Lipton,306,4.3,58,101,25,Medium,Yes
+1006,Grocery,Honey,Dabur,284,4.0,108,154,20,High,Yes
+1007,Home,Table Lamp,Philips,959,3.9,82,118,5,Medium,Yes
+1008,Beauty,Face Serum,Minimalist,672,4.1,232,54,5,Low,Yes
+1009,Home,Bedsheet,Portico,1104,4.0,239,19,0,Low,No
+1010,Home,Study Table,Wakefit,5748,4.3,145,57,0,Low,Yes
+1011,Beauty,Lipstick,Maybelline,648,4.0,809,121,15,High,Yes
+1012,Electronics,Smartphone,Samsung,19289,3.8,393,70,25,Medium,Yes
+1013,Grocery,Brown Rice,India Gate,410,4.3,56,115,25,Medium,Yes
+1014,Electronics,Wireless Headphones,Boat,1567,4.3,371,141,30,High,Yes
+1015,Home,Bedsheet,Portico,1305,4.2,179,73,30,Medium,Yes
+1016,Electronics,Keyboard,HP,864,3.9,160,152,25,High,Yes
+1017,Home,Wall Clock,Ajanta,490,4.3,64,88,5,Medium,Yes
+1018,Home,Bedsheet,Portico,1240,4.1,137,93,5,Medium,Yes
+1019,Grocery,Protein Bar Pack,Yoga Bar,467,4.6,424,119,15,Medium,Yes
+1020,Home,Floor Mat,Story@Home,615,4.1,279,116,10,Medium,Yes
+1021,Electronics,Power Bank,Mi,1080,4.0,194,89,30,Medium,Yes
+1022,Home,Storage Box,Amazon Basics,718,3.8,391,112,5,Medium,Yes
+1023,Grocery,Brown Rice,India Gate,378,4.2,446,151,15,High,Yes
+1024,Beauty,Moisturizer,Ponds,372,4.0,285,155,5,High,Yes
+1025,Fashion,Women Top,W,1018,4.2,661,47,25,Low,Yes
+1026,Grocery,Honey,Dabur,328,4.5,235,136,15,High,Yes
+1027,Home,Water Bottle,Milton,782,4.2,55,67,5,Medium,Yes
+1028,Grocery,Corn Flakes,Kelloggs,321,4.3,622,93,0,Medium,Yes
+1029,Electronics,Bluetooth Speaker,JBL,4151,3.9,155,157,30,High,Yes
+1030,Beauty,Face Mask,Mamaearth,273,4.3,152,147,15,High,Yes
+1031,Grocery,Corn Flakes,Kelloggs,355,4.2,436,124,20,High,Yes
+1032,Electronics,Smart Watch,Noise,2624,4.1,168,59,20,Low,Yes
+1033,Home,Coffee Mug,Cello,276,4.3,265,97,15,Medium,Yes
+1034,Fashion,Sneakers,Adidas,2701,4.1,82,121,25,High,Yes
+1035,Home,Floor Mat,Story@Home,693,4.1,126,96,20,Medium,Yes
+1036,Electronics,USB-C Cable,Portronics,379,4.3,829,121,20,High,Yes
+1037,Grocery,Protein Bar Pack,Yoga Bar,466,4.3,210,104,30,Medium,Yes
+1038,Fashion,Women Top,W,1109,4.2,230,215,20,High,Yes
+1039,Electronics,Tablet,Lenovo,15540,4.1,273,69,0,Medium,Yes
+1040,Electronics,Wireless Mouse,Logitech,1420,3.8,492,149,30,High,Yes
+1041,Home,Water Bottle,Milton,638,4.5,117,161,20,High,Yes
+1042,Electronics,Smart Watch,Noise,2651,3.7,333,197,30,High,Yes
+1043,Electronics,Smartphone,Samsung,21369,3.9,148,78,5,Medium,Yes
+1044,Beauty,Lipstick,Maybelline,654,4.0,74,134,20,High,Yes
+1045,Grocery,Honey,Dabur,333,3.8,308,106,20,Medium,Yes
+1046,Fashion,Backpack,Skybags,1283,4.7,127,140,25,High,Yes
+1047,Home,Curtains,Home Centre,1646,4.5,93,110,15,Medium,Yes
+1048,Electronics,Power Bank,Mi,948,4.7,71,111,10,Medium,Yes
+1049,Electronics,Tablet,Lenovo,16349,4.3,382,72,20,Medium,Yes
+1050,Fashion,Men T-Shirt,Puma,732,3.7,319,136,25,High,Yes
+1051,Electronics,Power Bank,Mi,914,4.3,282,51,0,Low,Yes
+1052,Home,Bedsheet,Portico,1215,4.3,271,62,10,Medium,Yes
+1053,Beauty,Lip Balm,Nivea,203,4.9,308,122,25,High,Yes
+1054,Grocery,Muesli,Bagrry's,451,4.4,111,201,30,High,Yes
+1055,Beauty,Hair Oil,Parachute,235,4.6,124,140,0,High,Yes
+1056,Beauty,Face Serum,Minimalist,694,4.3,393,195,15,High,Yes
+1057,Electronics,Smart Watch,Noise,2282,4.1,130,89,25,Medium,Yes
+1058,Home,Bedsheet,Portico,1145,3.9,209,79,5,Medium,Yes
+1059,Grocery,Corn Flakes,Kelloggs,325,4.3,395,121,5,High,Yes
+1060,Home,Curtains,Home Centre,1431,4.7,183,172,0,High,Yes
+1061,Beauty,Lipstick,Maybelline,644,4.4,121,114,25,Medium,Yes
+1062,Grocery,Green Tea,Lipton,333,4.4,189,198,30,High,Yes
+1063,Fashion,Running Shoes,Nike,3462,4.4,210,94,15,Medium,Yes
+1064,Fashion,Formal Shirt,Van Heusen,1757,3.7,161,116,5,Medium,Yes
+1065,Beauty,Face Wash,Mamaearth,446,4.3,92,125,10,High,Yes
+1066,Beauty,Body Lotion,Vaseline,347,4.3,119,154,25,High,Yes
+1067,Grocery,Corn Flakes,Kelloggs,326,4.2,99,141,10,High,Yes
+1068,Fashion,Men T-Shirt,Puma,821,4.4,472,170,20,High,Yes
+1069,Electronics,Wireless Mouse,Logitech,1185,3.7,114,118,20,Medium,Yes
+1070,Beauty,Lipstick,Maybelline,770,4.4,317,276,20,High,Yes
+1071,Fashion,Men T-Shirt,Puma,888,4.4,490,127,0,High,Yes
+1072,Fashion,Women Kurti,Biba,1339,4.4,177,170,25,High,Yes
+1073,Fashion,Formal Shirt,Van Heusen,1481,3.9,187,104,20,Medium,Yes
+1074,Fashion,Track Pants,Puma,1442,4.2,1119,63,20,Medium,Yes
+1075,Electronics,Keyboard,HP,939,4.4,71,101,20,Medium,Yes
+1076,Grocery,Brown Rice,India Gate,441,4.6,231,91,5,Medium,Yes
+1077,Home,Water Bottle,Milton,670,3.9,356,41,5,Low,Yes
+1078,Home,Curtains,Home Centre,1453,4.3,228,104,30,Medium,Yes
+1079,Electronics,Wireless Headphones,Boat,1500,5.0,345,62,20,Medium,Yes
+1080,Electronics,Smart Watch,Noise,2545,4.3,139,145,20,High,Yes
+1081,Home,Wall Clock,Ajanta,552,3.9,204,75,0,Medium,Yes
+1082,Fashion,Hoodie,H&M,1732,4.5,95,114,15,Medium,Yes
+1083,Grocery,Peanut Butter,Pintola,465,4.0,140,225,30,High,Yes
+1084,Grocery,Green Tea,Lipton,313,4.3,91,183,20,High,Yes
+1085,Home,Bedsheet,Portico,1327,4.9,456,39,5,Low,Yes
+1086,Home,Bedsheet,Portico,1314,4.0,537,85,25,Medium,Yes
+1087,Grocery,Oats 1kg,Saffola,191,4.4,380,121,20,High,Yes
+1088,Fashion,Hoodie,H&M,1700,4.2,22,103,25,Medium,Yes
+1089,Home,Floor Mat,Story@Home,654,4.1,92,179,30,High,Yes
+1090,Electronics,Smart Watch,Noise,2598,3.7,162,125,30,High,Yes
+1091,Home,Table Lamp,Philips,810,4.7,81,178,30,High,Yes
+1092,Fashion,Backpack,Skybags,1215,4.2,111,135,15,High,Yes
+1093,Grocery,Honey,Dabur,306,4.3,145,113,0,Medium,Yes
+1094,Electronics,Bluetooth Speaker,JBL,4079,4.1,239,153,30,High,Yes
+1095,Home,Study Table,Wakefit,6128,4.8,93,184,15,High,Yes
+1096,Fashion,Men T-Shirt,Puma,773,3.5,199,152,30,High,Yes
+1097,Electronics,Wireless Mouse,Logitech,1229,4.3,143,78,5,Medium,Yes
+1098,Electronics,Wireless Mouse,Logitech,1392,4.0,146,157,30,High,Yes
+1099,Beauty,Face Mask,Mamaearth,318,4.3,136,140,5,High,Yes
+1100,Fashion,Running Shoes,Nike,3828,4.3,391,113,0,Medium,Yes
+1101,Fashion,Hoodie,H&M,1929,3.9,149,137,15,High,Yes
+1102,Fashion,Backpack,Skybags,1215,4.4,218,148,25,High,Yes
+1103,Electronics,Keyboard,HP,982,4.6,146,162,30,High,Yes
+1104,Beauty,Lip Balm,Nivea,188,4.1,190,162,15,High,Yes
+1105,Home,Cushion Set,Solimo,647,4.5,391,178,30,High,Yes
+1106,Fashion,Jeans,Levis,1810,4.2,356,88,5,Medium,Yes
+1107,Beauty,Face Serum,Minimalist,672,4.3,202,102,0,Medium,Yes
+1108,Home,Coffee Mug,Cello,311,4.4,124,173,15,High,Yes
+1109,Grocery,Brown Rice,India Gate,442,3.8,94,139,0,High,Yes
+1110,Home,Wall Clock,Ajanta,513,4.5,342,114,10,Medium,Yes
+1111,Electronics,Smart Watch,Noise,2577,4.2,118,95,10,Medium,Yes
+1112,Home,Storage Box,Amazon Basics,774,4.0,438,94,20,Medium,Yes
+1113,Electronics,Keyboard,HP,987,3.9,176,89,5,Medium,Yes
+1114,Home,Table Lamp,Philips,949,4.0,124,68,0,Medium,Yes
+1115,Grocery,Cashews 500g,Farmley,735,4.3,155,145,25,High,Yes
+1116,Fashion,Hoodie,H&M,1790,4.3,80,92,25,Medium,Yes
+1117,Home,Study Table,Wakefit,5813,3.9,190,128,30,High,Yes
+1118,Electronics,USB-C Cable,Portronics,353,4.7,403,129,25,High,Yes
+1119,Beauty,Face Serum,Minimalist,691,4.2,109,116,10,Medium,Yes
+1120,Grocery,Oats 1kg,Saffola,187,4.1,277,127,25,High,Yes
+1121,Beauty,Sunscreen,Lakme,568,4.4,647,118,10,Medium,Yes
+1122,Beauty,Lipstick,Maybelline,757,4.3,358,105,10,Medium,Yes
+1123,Home,Water Bottle,Milton,695,4.3,223,110,20,Medium,Yes
+1124,Grocery,Brown Rice,India Gate,400,3.9,225,148,15,High,Yes
+1125,Fashion,Women Top,W,1003,4.7,433,236,30,High,Yes
+1126,Fashion,Women Kurti,Biba,1250,3.9,407,137,25,High,Yes
+1127,Grocery,Brown Rice,India Gate,367,5.0,125,159,30,High,Yes
+1128,Fashion,Backpack,Skybags,1233,4.0,50,75,5,Medium,Yes
+1129,Fashion,Men T-Shirt,Puma,727,3.9,245,123,15,High,Yes
+1130,Grocery,Almonds 500g,Nutraj,649,4.9,430,156,25,High,Yes
+1131,Grocery,Protein Bar Pack,Yoga Bar,528,3.9,312,85,15,Medium,Yes
+1132,Beauty,Hair Oil,Parachute,237,4.8,505,145,25,High,Yes
+1133,Electronics,Smart Watch,Noise,2677,3.6,571,63,5,Medium,Yes
+1134,Fashion,Women Top,W,1001,4.6,72,118,20,Medium,Yes
+1135,Fashion,Women Kurti,Biba,1300,4.2,228,133,30,High,Yes
+1136,Beauty,Lipstick,Maybelline,781,4.4,104,137,20,High,Yes
+1137,Home,Curtains,Home Centre,1551,4.2,317,139,25,High,Yes
+1138,Grocery,Honey,Dabur,324,3.8,75,183,20,High,Yes
+1139,Beauty,Sunscreen,Lakme,584,4.3,131,183,15,High,Yes
+1140,Beauty,Body Lotion,Vaseline,372,4.2,505,159,30,High,Yes
+1141,Home,Floor Mat,Story@Home,653,4.9,756,83,5,Medium,Yes
+1142,Home,Curtains,Home Centre,1375,4.5,347,140,10,High,Yes
+1143,Fashion,Backpack,Skybags,1265,3.9,357,158,20,High,Yes
+1144,Electronics,Bluetooth Speaker,JBL,3732,3.6,96,16,15,Low,Yes
+1145,Fashion,Women Kurti,Biba,1288,4.1,365,159,10,High,Yes
+1146,Grocery,Corn Flakes,Kelloggs,346,4.2,692,70,5,Medium,Yes
+1147,Beauty,Hair Oil,Parachute,274,3.6,212,135,20,High,Yes
+1148,Electronics,Tablet,Lenovo,15738,4.2,52,69,0,Medium,Yes
+1149,Home,Cushion Set,Solimo,638,3.7,353,125,30,High,Yes
+1150,Beauty,Lipstick,Maybelline,744,3.9,154,92,20,Medium,Yes
+1151,Grocery,Protein Bar Pack,Yoga Bar,503,4.2,432,94,10,Medium,Yes
+1152,Beauty,Moisturizer,Ponds,362,4.4,152,94,10,Medium,Yes
+1153,Beauty,Sunscreen,Lakme,596,4.2,107,87,5,Medium,Yes
+1154,Grocery,Cashews 500g,Farmley,633,3.8,875,130,15,High,Yes
+1155,Grocery,Muesli,Bagrry's,470,4.0,257,100,0,Medium,Yes
+1156,Beauty,Sunscreen,Lakme,599,4.1,340,131,5,High,Yes
+1157,Electronics,USB-C Cable,Portronics,343,4.0,147,68,5,Medium,Yes
+1158,Beauty,Face Serum,Minimalist,681,3.4,76,154,15,High,Yes
+1159,Home,Storage Box,Amazon Basics,716,4.8,185,100,0,Medium,Yes
+1160,Beauty,Face Wash,Mamaearth,425,4.3,1910,138,0,High,Yes
+1161,Home,Water Bottle,Milton,729,4.2,113,68,30,Medium,Yes
+1162,Electronics,Wireless Headphones,Boat,1662,4.3,130,35,5,Low,Yes
+1163,Electronics,Tablet,Lenovo,14935,4.0,103,137,5,High,Yes
+1164,Beauty,Shampoo,Dove,613,4.5,220,166,5,High,Yes
+1165,Beauty,Body Lotion,Vaseline,373,4.2,121,160,5,High,Yes
+1166,Grocery,Muesli,Bagrry's,499,4.4,107,157,25,High,Yes
+1167,Electronics,Bluetooth Speaker,JBL,4448,3.9,84,97,0,Medium,Yes
+1168,Grocery,Green Tea,Lipton,330,4.9,83,186,20,High,Yes
+1169,Beauty,Hair Oil,Parachute,276,4.0,157,81,5,Medium,Yes
+1170,Electronics,Tablet,Lenovo,16830,3.9,229,86,25,Medium,Yes
+1171,Fashion,Women Kurti,Biba,1368,4.3,213,103,10,Medium,Yes
+1172,Grocery,Almonds 500g,Nutraj,698,3.9,147,167,20,High,Yes
+1173,Electronics,Wireless Mouse,Logitech,1321,4.4,111,131,25,High,Yes
+1174,Home,Bedsheet,Portico,1213,4.5,68,111,10,Medium,Yes
+1175,Electronics,Keyboard,HP,972,4.0,330,41,0,Low,Yes
+1176,Beauty,Face Serum,Minimalist,727,3.6,70,143,30,High,Yes
+1177,Beauty,Sunscreen,Lakme,547,4.3,117,171,25,High,Yes
+1178,Grocery,Peanut Butter,Pintola,465,3.6,211,91,20,Medium,Yes
+1179,Beauty,Moisturizer,Ponds,397,4.0,228,111,25,Medium,Yes
+1180,Grocery,Peanut Butter,Pintola,436,4.1,447,96,5,Medium,Yes
+1181,Electronics,USB-C Cable,Portronics,382,4.5,100,109,5,Medium,Yes
+1182,Beauty,Face Mask,Mamaearth,309,4.7,39,111,15,Medium,Yes
+1183,Home,Table Lamp,Philips,907,4.4,192,102,10,Medium,Yes
+1184,Fashion,Sneakers,Adidas,2839,4.0,235,138,30,High,Yes
+1185,Home,Coffee Mug,Cello,287,4.6,264,126,20,High,Yes
+1186,Home,Floor Mat,Story@Home,586,4.1,157,57,5,Low,Yes
+1187,Electronics,Power Bank,Mi,1057,4.3,164,115,15,Medium,Yes
+1188,Grocery,Protein Bar Pack,Yoga Bar,525,4.9,407,165,25,High,Yes
+1189,Beauty,Moisturizer,Ponds,429,4.6,166,35,0,Low,Yes
+1190,Home,Water Bottle,Milton,691,3.8,59,52,5,Low,Yes
+1191,Home,Study Table,Wakefit,5886,4.2,715,116,20,Medium,Yes
+1192,Grocery,Brown Rice,India Gate,396,4.1,395,79,25,Medium,Yes
+1193,Grocery,Brown Rice,India Gate,390,4.3,379,89,15,Medium,Yes
+1194,Home,Cushion Set,Solimo,572,4.6,280,60,0,Medium,Yes
+1195,Fashion,Hoodie,H&M,1666,4.4,1085,140,20,High,Yes
+1196,Fashion,Jeans,Levis,1894,4.3,160,91,15,Medium,Yes
+1197,Home,Study Table,Wakefit,6688,4.5,121,115,20,Medium,Yes
+1198,Grocery,Peanut Butter,Pintola,501,4.0,309,175,30,High,Yes
+1199,Fashion,Backpack,Skybags,1234,4.6,154,99,5,Medium,Yes
+1200,Home,Table Lamp,Philips,949,3.9,162,80,5,Medium,Yes
+1201,Home,Table Lamp,Philips,1002,4.5,116,142,20,High,Yes
+1202,Home,Wall Clock,Ajanta,519,4.7,295,203,30,High,Yes
+1203,Beauty,Shampoo,Dove,654,3.9,92,67,20,Medium,Yes
+1204,Home,Curtains,Home Centre,1507,4.7,350,95,10,Medium,Yes
+1205,Fashion,Men T-Shirt,Puma,763,4.3,100,237,30,High,Yes
+1206,Beauty,Shampoo,Dove,647,4.2,239,152,15,High,Yes
+1207,Beauty,Shampoo,Dove,615,4.4,258,124,25,High,Yes
+1208,Electronics,Bluetooth Speaker,JBL,3730,4.4,826,165,20,High,Yes
+1209,Home,Bedsheet,Portico,1341,4.8,154,45,0,Low,Yes
+1210,Grocery,Honey,Dabur,309,4.2,230,207,30,High,Yes
+1211,Grocery,Protein Bar Pack,Yoga Bar,534,3.6,645,118,15,Medium,Yes
+1212,Beauty,Moisturizer,Ponds,385,4.1,109,76,20,Medium,Yes
+1213,Beauty,Body Lotion,Vaseline,358,4.5,233,59,0,Low,Yes
+1214,Grocery,Almonds 500g,Nutraj,719,3.7,175,164,5,High,Yes
+1215,Fashion,Backpack,Skybags,1358,4.1,77,87,5,Medium,Yes
+1216,Fashion,Running Shoes,Nike,3574,4.1,33,94,5,Medium,Yes
+1217,Electronics,Keyboard,HP,898,4.1,360,175,20,High,Yes
+1218,Beauty,Body Lotion,Vaseline,317,4.6,183,88,10,Medium,Yes
+1219,Home,Curtains,Home Centre,1373,5.0,230,95,5,Medium,Yes
+1220,Home,Study Table,Wakefit,6272,4.2,254,69,5,Medium,Yes
+1221,Beauty,Shampoo,Dove,611,4.0,150,140,25,High,Yes
+1222,Fashion,Backpack,Skybags,1405,4.0,134,87,0,Medium,Yes
+1223,Electronics,Bluetooth Speaker,JBL,4296,4.1,634,17,20,Low,Yes
+1224,Grocery,Peanut Butter,Pintola,447,4.6,529,76,15,Medium,Yes
+1225,Home,Storage Box,Amazon Basics,829,4.1,170,53,20,Low,Yes
+1226,Grocery,Corn Flakes,Kelloggs,348,3.9,101,202,20,High,Yes
+1227,Electronics,Keyboard,HP,954,4.5,539,145,20,High,Yes
+1228,Home,Table Lamp,Philips,827,3.8,153,122,25,High,Yes
+1229,Grocery,Muesli,Bagrry's,498,3.8,364,150,30,High,Yes
+1230,Home,Study Table,Wakefit,5452,4.1,364,138,30,High,Yes
+1231,Fashion,Sneakers,Adidas,3042,4.1,498,78,15,Medium,Yes
+1232,Home,Wall Clock,Ajanta,559,4.4,335,89,15,Medium,Yes
+1233,Beauty,Shampoo,Dove,601,4.3,92,161,15,High,Yes
+1234,Home,Coffee Mug,Cello,313,4.1,153,159,30,High,Yes
+1235,Fashion,Hoodie,H&M,1782,4.0,82,59,15,Low,Yes
+1236,Home,Storage Box,Amazon Basics,808,4.4,90,171,20,High,Yes
+1237,Electronics,Laptop Stand,Zebronics,735,3.5,725,82,10,Medium,Yes
+1238,Home,Bedsheet,Portico,1335,4.2,151,108,15,Medium,Yes
+1239,Grocery,Green Tea,Lipton,312,4.2,479,152,20,High,Yes
+1240,Beauty,Hair Oil,Parachute,227,4.3,171,137,20,High,Yes
+1241,Home,Study Table,Wakefit,6397,4.3,66,70,25,Medium,Yes
+1242,Beauty,Face Wash,Mamaearth,377,4.5,249,138,20,High,Yes
+1243,Fashion,Backpack,Skybags,1294,4.2,282,120,25,High,Yes
+1244,Beauty,Shampoo,Dove,543,3.9,253,105,25,Medium,Yes
+1245,Grocery,Protein Bar Pack,Yoga Bar,527,4.3,67,167,10,High,Yes
+1246,Grocery,Green Tea,Lipton,305,4.4,264,148,0,High,Yes
+1247,Fashion,Women Kurti,Biba,1301,4.8,450,39,0,Low,Yes
+1248,Fashion,Sneakers,Adidas,3314,3.8,142,99,10,Medium,Yes
+1249,Grocery,Peanut Butter,Pintola,445,4.4,133,150,15,High,Yes
+1250,Beauty,Lip Balm,Nivea,199,3.9,144,50,5,Low,Yes
+1251,Beauty,Lip Balm,Nivea,219,3.9,85,95,20,Medium,Yes
+1252,Fashion,Women Kurti,Biba,1248,4.6,113,251,30,High,Yes
+1253,Beauty,Face Serum,Minimalist,773,4.4,251,111,20,Medium,Yes
+1254,Home,Table Lamp,Philips,865,4.4,147,94,10,Medium,Yes
+1255,Grocery,Muesli,Bagrry's,503,5.0,207,199,15,High,Yes
+1256,Fashion,Sneakers,Adidas,3054,4.0,216,165,10,High,Yes
+1257,Home,Floor Mat,Story@Home,693,4.0,787,114,15,Medium,Yes
+1258,Beauty,Face Serum,Minimalist,763,4.0,344,176,25,High,Yes
+1259,Fashion,Track Pants,Puma,1377,4.4,73,128,30,High,Yes
+1260,Beauty,Face Wash,Mamaearth,387,4.1,210,146,15,High,Yes
+1261,Beauty,Hair Oil,Parachute,278,4.3,86,172,30,High,Yes
+1262,Fashion,Sneakers,Adidas,3336,4.4,327,141,5,High,Yes
+1263,Grocery,Muesli,Bagrry's,437,4.5,305,114,0,Medium,Yes
+1264,Beauty,Shampoo,Dove,608,3.6,299,119,15,Medium,Yes
+1265,Electronics,Bluetooth Speaker,JBL,3960,4.3,90,87,25,Medium,Yes
+1266,Fashion,Women Kurti,Biba,1303,4.6,215,142,10,High,Yes
+1267,Home,Study Table,Wakefit,6313,4.2,226,147,25,High,Yes
+1268,Electronics,Wireless Mouse,Logitech,1413,4.0,236,111,30,Medium,Yes
+1269,Grocery,Honey,Dabur,332,4.0,178,161,25,High,Yes
+1270,Beauty,Lipstick,Maybelline,635,4.0,533,60,0,Medium,Yes
+1271,Fashion,Backpack,Skybags,1454,4.1,162,187,25,High,Yes
+1272,Electronics,Keyboard,HP,1003,4.3,455,83,30,Medium,Yes
+1273,Electronics,Laptop Stand,Zebronics,748,4.3,412,98,10,Medium,Yes
+1274,Electronics,Wireless Headphones,Boat,1456,4.6,154,132,0,High,Yes
+1275,Home,Coffee Mug,Cello,294,5.0,171,79,5,Medium,Yes
+1276,Fashion,Women Top,W,990,4.7,668,133,25,High,Yes
+1277,Fashion,Running Shoes,Nike,3284,4.1,181,79,20,Medium,Yes
+1278,Beauty,Face Mask,Mamaearth,314,3.9,109,92,15,Medium,Yes
+1279,Grocery,Oats 1kg,Saffola,189,4.2,260,213,25,High,Yes
+1280,Home,Curtains,Home Centre,1433,3.9,440,50,0,Low,Yes
+1281,Beauty,Body Lotion,Vaseline,366,4.2,355,67,5,Medium,Yes
+1282,Electronics,Laptop Stand,Zebronics,885,4.3,248,132,20,High,Yes
+1283,Home,Storage Box,Amazon Basics,788,4.3,1234,75,15,Medium,Yes
+1284,Home,Water Bottle,Milton,783,4.0,143,100,30,Medium,Yes
+1285,Beauty,Shampoo,Dove,570,4.0,508,181,20,High,Yes
+1286,Home,Study Table,Wakefit,5790,4.0,123,126,25,High,Yes
+1287,Home,Table Lamp,Philips,1003,4.0,344,117,25,Medium,Yes
+1288,Beauty,Body Lotion,Vaseline,315,3.7,654,207,30,High,Yes
+1289,Electronics,Tablet,Lenovo,17022,4.0,168,138,30,High,Yes
+1290,Home,Water Bottle,Milton,722,4.3,351,157,10,High,Yes
+1291,Fashion,Jeans,Levis,2072,4.1,126,88,25,Medium,Yes
+1292,Fashion,Women Kurti,Biba,1427,3.9,216,194,25,High,Yes
+1293,Electronics,USB-C Cable,Portronics,375,4.0,258,67,0,Medium,Yes
+1294,Grocery,Brown Rice,India Gate,423,4.6,1298,100,0,Medium,Yes
+1295,Home,Coffee Mug,Cello,318,4.0,459,93,5,Medium,Yes
+1296,Fashion,Running Shoes,Nike,3755,4.8,333,111,10,Medium,Yes
+1297,Grocery,Cashews 500g,Farmley,770,4.4,481,202,30,High,Yes
+1298,Fashion,Backpack,Skybags,1430,4.4,467,164,15,High,Yes
+1299,Home,Coffee Mug,Cello,322,4.7,348,101,15,Medium,Yes
+1300,Electronics,Bluetooth Speaker,JBL,4263,4.3,515,56,5,Low,Yes
