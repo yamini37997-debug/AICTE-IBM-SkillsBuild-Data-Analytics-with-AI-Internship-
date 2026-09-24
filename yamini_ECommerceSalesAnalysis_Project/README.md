@@ -34,11 +34,11 @@ The dataset contains 300 synthetic product records. It is created for academic/p
 ```text
 ECommerceSalesAnalysis/
 │
-├── MayankYadav_ECommerceSalesAnalysis.ipynb
+├── Yamini_ECommerceSalesAnalysis.ipynb
 ├── ecommerce_dataset.csv
 ├── requirements.txt
 ├── README.md
-└── MayankYadav_ECommerceSalesAnalysisReport.docx
+└── Yamini_ECommerceSalesAnalysisReport.docx
 ```
 
 ## Setup Instructions
@@ -59,7 +59,7 @@ jupyter notebook
 ```
 
 Open:
-`MayankYadav_ECommerceSalesAnalysis.ipynb`
+`Yamini_ECommerceSalesAnalysis.ipynb`
 
 ### 4. Run the notebook
 Run the cells from top to bottom.
